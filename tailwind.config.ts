@@ -16,20 +16,20 @@ const config: Config = {
         background: 'var(--background)',
         foreground: 'var(--foreground)',
         primary: {
-          DEFAULT: '#A855F7', // purple-500
-          light: '#C084FC',   // purple-400
-          dark: '#7E22CE',    // purple-700
+          DEFAULT: '#06B6D4', // cyan-500
+          light: '#22D3EE',   // cyan-400
+          dark: '#0E7490',    // cyan-700
           hover: {
-            light: '#9333EA', // purple-600
-            dark: '#6B21A8',  // purple-800
+            light: '#0891B2', // cyan-600
+            dark: '#155E75',  // cyan-800
           },
           subtle: {
-            light: '#F3E8FF', // purple-100
-            dark: '#581C87',  // purple-900
+            light: '#ECFEFF', // cyan-50
+            dark: '#164E63',  // cyan-900
           },
           text: {
-            light: '#7E22CE', // purple-700
-            dark: '#C084FC',  // purple-400
+            light: '#0E7490', // cyan-700
+            dark: '#22D3EE',  // cyan-400
           }
         },
         gray: {
